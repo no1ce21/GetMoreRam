@@ -29,15 +29,6 @@
       }
     },
     {
-      "identity" : "stossign",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/stossy11/StosSign",
-      "state" : {
-        "branch" : "main",
-        "revision" : "01dd7bc4f5084ade9e2ebbc7e338dc2e3f454d77"
-      }
-    },
-    {
       "identity" : "swift-asn1",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-asn1.git",
